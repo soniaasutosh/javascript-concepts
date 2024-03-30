@@ -14,6 +14,7 @@ const myPromose = (res) => {
     })
 }
 
+
 async function myAsyncFun(){
     try {
         const response = await fetch(url);
